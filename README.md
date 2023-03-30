@@ -1,4 +1,4 @@
 # MyAlchemistsLab
-#First Lab in repository, First Variant 
+# First Lab in repository, First Variant 
 # Projects of Daniel Anufriev 
-# Ur Welcome 💮! 
+ Ur Welcome 💮! 
